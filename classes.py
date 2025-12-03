@@ -4,7 +4,7 @@
 
 class Student:
     # def __init__(self,n,r):
-    # def __init__(self, n=10,r=5): # default arguments
+    # def __init__(self, n=10,r=5): # default Paramters or arguments
     def __init__(self):
         # print("Hello Constructor")
         pass
