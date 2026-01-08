@@ -31,3 +31,4 @@ st.plotly_chart(ch)
 ch2=px.pie(df_selected[:20], names='Item Name', values='Votes', color='City')
 st.plotly_chart(ch2)
 
+    
